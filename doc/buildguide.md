@@ -55,8 +55,7 @@ Place switch plate A on the PCB. It is easier to align the key switches if they 
 Place switch plate B on the PCB. It is easier to align the key switches if they are attached to both ends.
 <img src="../img/buildguide/case-assembly_04.jpg" width="80%">
 
-Use a 4mm screw to secure the switch plate.Fix the switch plate using a 4mm screw.Also,
-Also, attach the 7mm Knurled spacer at the point marked in red.
+Use a 4mm screw to secure the switch plate.Fix the switch plate using a 4mm screw.<br>Also, attach the 7mm Knurled spacer at the point marked in red.
 <img src="../img/buildguide/case-assembly_05.jpg" width="80%">
 
 Fix the cover plate with a 4mm screw.
