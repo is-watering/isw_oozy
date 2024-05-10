@@ -46,7 +46,7 @@ It is recommended to check whether the firmware can be written to the microcontr
 When using a low profile pinsocket, cut the pinsocket to match the shape of the through-hole and solder it at the point marked in red.  
 [Learn more about microcontroller socketing using low profile pinsocket](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/microcontroller-socketing_low-profile-pinsocket.md)
 
-When directly soldering a pin header, cut the pin header to match the shape of the through-hole and solder it to the ProMicro RP2040 at the point marked in red.
+When directly soldering a pin header, cut the pin header to match the shape of the through-hole and solder it to the ProMicro RP2040 at the point marked in red.  
 <img src="../img/buildguide/soldering-promicro_01.jpg" width="80%">
 
 ## Build Case
