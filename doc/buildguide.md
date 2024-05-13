@@ -3,12 +3,12 @@
 ## Parts
 Name                     |Quantity |Notes
 -------------------------|---------|-----
-PCB                      |1        |
-Switch plate A           |1        |
-Switch plate B_Left      |1        |
-Switch plate B_Right     |1        |
-Bottom plate             |1        |
-Cover plate              |1        |
+PCB                      |1        |[Here's the data.](https://github.com/is-watering/isw_oozy/tree/main/hardware/pcb)
+Switch plate A           |1        |[Here's the data.](https://github.com/is-watering/isw_oozy/tree/main/hardware/plate)
+Switch plate B_Left      |1        |[Here's the data.](https://github.com/is-watering/isw_oozy/tree/main/hardware/plate)
+Switch plate B_Right     |1        |[Here's the data.](https://github.com/is-watering/isw_oozy/tree/main/hardware/plate)
+Bottom plate             |1        |[Here's the data.](https://github.com/is-watering/isw_oozy/tree/main/hardware/plate)
+Cover plate              |1        |[Here's the data.](https://github.com/is-watering/isw_oozy/tree/main/hardware/plate)
 SK6812 MINI-E leds       |12       |
 1N4148W diodes           |58       |
 Kailh hotswap sockets    |58       |
