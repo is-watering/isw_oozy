@@ -15,8 +15,8 @@ Kailh hotswap sockets    |58       |
 ProMicro RP2040          |1        |[Aliexpress](https://www.aliexpress.com/item/1005006355650714.html)
 M2x4mm screws            |32       |
 M2x12mm screws           |4        |
-M2x7mm spacer         |18       |
-M2x7mm Knurled spacer |4        |[Aliexpress](https://www.aliexpress.com/item/1005002979083511.html)
+M2x7mm spacers           |18       |
+M2x7mm Knurled spacers   |4        |[Aliexpress](https://www.aliexpress.com/item/1005002979083511.html)
 
 ### Optionally
 Name |Quantity |Notes
@@ -28,8 +28,8 @@ AZ1UBALL                  |1    |Only one of this or StickPointV can be attached
 StickPointV               |1    |Only one of this or AZ1UBALL can be attached.<br>Also, use those without glove socket mounts.<br>[Booth](https://booth.pm/ja/items/5404009)
 FSS-41035-04 4P pinsocket |1    |Used when AZ1UBALL or StickPointV is installed.<br>[HIROSUGI NET](https://www.hirosugi-net.co.jp/shop/goods/goods.aspx?goods=24081), [Yushakobo](https://shop.yushakobo.jp/products/a1600ps-01-1)
 PSS-410153-04 4P pinheader |1    |Used when AZ1UBALL or StickPointV is installed.<br>[HIROSUGI NET](https://www.hirosugi-net.co.jp/shop/g/g21243/), [Yushakobo](https://shop.yushakobo.jp/products/a1600ph-01-1)
-M2x6mm Knurled spacer |4        |Used when StickPointV is installed.<br>[Aliexpress](https://www.aliexpress.com/item/1005002979083511.html)
-M2x10mm Knurled spacer |4        |Used when StickPointV is installed.<br>[Aliexpress](https://www.aliexpress.com/item/1005002979083511.html)
+M2x6mm Knurled spacers     |4        |Used when StickPointV is installed.<br>[Aliexpress](https://www.aliexpress.com/item/1005002979083511.html)
+M2x10mm Knurled spacers    |4        |Used when StickPointV is installed.<br>[Aliexpress](https://www.aliexpress.com/item/1005002979083511.html)
 
 
 ## Build PCB

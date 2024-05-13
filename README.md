@@ -1,7 +1,7 @@
 # ISW-OOZY
 <img src="img/mounting-example.jpg" width="80%">
 
-ISW-OOZY is an orthoish keyboard with offset clusters. 
+ISW-OOZY is an orthoish keyboard with offset clusters.
 
 [Build guide](doc/buildguide.md)
 
