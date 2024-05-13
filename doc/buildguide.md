@@ -3,19 +3,19 @@
 ## Parts
 Name                     |Quantity |Notes
 -------------------------|---------|-----
-PCB                      |1        |[Here's the data.](https://github.com/is-watering/isw_oozy/tree/main/hardware/pcb)
-Switch plate A           |1        |[Here's the data.](https://github.com/is-watering/isw_oozy/tree/main/hardware/plate)
-Switch plate B_Left      |1        |[Here's the data.](https://github.com/is-watering/isw_oozy/tree/main/hardware/plate)
-Switch plate B_Right     |1        |[Here's the data.](https://github.com/is-watering/isw_oozy/tree/main/hardware/plate)
-Bottom plate             |1        |[Here's the data.](https://github.com/is-watering/isw_oozy/tree/main/hardware/plate)
-Cover plate              |1        |[Here's the data.](https://github.com/is-watering/isw_oozy/tree/main/hardware/plate)
+PCB                      |1        |[Here's the data](https://github.com/is-watering/isw_oozy/tree/main/hardware/pcb)
+Switch plate A           |1        |[Here's the data](https://github.com/is-watering/isw_oozy/tree/main/hardware/plate)
+Switch plate B_Left      |1        |[Here's the data](https://github.com/is-watering/isw_oozy/tree/main/hardware/plate)
+Switch plate B_Right     |1        |[Here's the data](https://github.com/is-watering/isw_oozy/tree/main/hardware/plate)
+Bottom plate             |1        |[Here's the data](https://github.com/is-watering/isw_oozy/tree/main/hardware/plate)
+Cover plate              |1        |[Here's the data](https://github.com/is-watering/isw_oozy/tree/main/hardware/plate)
 SK6812 MINI-E leds       |12       |
 1N4148W diodes           |58       |
 Kailh hotswap sockets    |58       |
 ProMicro RP2040          |1        |[Aliexpress](https://www.aliexpress.com/item/1005006355650714.html)
 M2x4mm screws            |32       |
 M2x12mm screws           |4        |
-M2x7mm spacers           |18       |
+M2x7mm spacers           |18       |[HIROSUGI NET](https://www.hirosugi-net.co.jp/shop/c/c10141012/)
 M2x7mm Knurled spacers   |4        |[Aliexpress](https://www.aliexpress.com/item/1005002979083511.html)
 
 ### Optionally
