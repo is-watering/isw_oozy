@@ -42,6 +42,9 @@ M2x10mm Knurled spacers    |4        |Used when StickPointV is installed.<br>[Al
 
 ### ProMicro RP2040
 It is recommended to check whether the firmware can be written to the microcontroller in advance.
+* Remap: in preparation
+* [Soure code](https://github.com/is-watering/isw_oozy/tree/main/firmware)
+
 
 When using a low profile pinsocket, cut the pinsocket to match the shape of the through-hole and solder it at the point marked in red.  
 [Learn more about microcontroller socketing using low profile pinsocket](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/microcontroller-socketing_low-profile-pinsocket.md)
