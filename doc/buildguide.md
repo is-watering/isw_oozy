@@ -42,7 +42,7 @@ M2x10mm Knurled spacers    |4        |Used when StickPointV is installed.<br>[Al
 
 ### ProMicro RP2040
 It is recommended to check whether the firmware can be written to the microcontroller in advance.
-* Remap: in preparation
+* [Remap](https://remap-keys.app/catalog/9zuSGbfh9XDFOtDtdAaT)
 * [Soure code](https://github.com/is-watering/isw_oozy/tree/main/firmware)
 
 
