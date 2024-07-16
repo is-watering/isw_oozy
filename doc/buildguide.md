@@ -50,30 +50,30 @@ When using a low profile pinsocket, cut the pinsocket to match the shape of the 
 [Learn more about microcontroller socketing using low profile pinsocket](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/microcontroller-socketing_low-profile-pinsocket.md)
 
 When directly soldering a pin header, cut the pin header to match the shape of the through-hole and solder it to the ProMicro RP2040 at the point marked in red.  
-<img src="../img/buildguide/soldering-promicro_01.jpg" width="80%">
+<img src="../img/buildguide/soldering-promicro-01.jpg" width="80%">
 
 ## Build Case
 Use a 4mm screw to secure the 7mm spacer. However, use a 12mm screw to secure the red marked areas.  
-<img src="../img/buildguide/build-case_01.jpg" width="80%">
+<img src="../img/buildguide/build-case-01.jpg" width="80%">
 
 Place the PCB on the bottom plate.  
-<img src="../img/buildguide/build-case_02.jpg" width="80%">
+<img src="../img/buildguide/build-case-02.jpg" width="80%">
 
 Place switch plate A on the PCB. It is easier to align the key switches if they are attached to the four corners.  
-<img src="../img/buildguide/build-case_03.jpg" width="80%">
+<img src="../img/buildguide/build-case-03.jpg" width="80%">
 
 Place switch plate B on the PCB. It is easier to align the key switches if they are attached to both ends.  
-<img src="../img/buildguide/build-case_04.jpg" width="80%">
+<img src="../img/buildguide/build-case-04.jpg" width="80%">
 
 Use a 4mm screw to secure the switch plate.Fix the switch plate using a 4mm screw.  
 Also, attach the 7mm Knurled spacer at the point marked in red.  
-<img src="../img/buildguide/build-case_05.jpg" width="80%">
+<img src="../img/buildguide/build-case-05.jpg" width="80%">
 
 Fix the cover plate with a 4mm screw.  
-<img src="../img/buildguide/build-case_06.jpg" width="80%">
+<img src="../img/buildguide/build-case-06.jpg" width="80%">
 
 Attach a key switch and key cap of your choice to complete the process!  
-<img src="../img/buildguide/build-case_07.jpg" width="80%">
+<img src="../img/buildguide/build-case-07.jpg" width="80%">
 
 Congratulations on the completion!  
 Please be proud of it on social networking sites!  
@@ -87,17 +87,17 @@ Please be proud of it on social networking sites!
 [Please solder the 4P pinsocket to the PCB in advance.](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/soldering-4p-pinsocket.md)
 
 Mount AZ1UBALL in 4P pinsocket.  
-<img src="../img/buildguide/mounting-az1uball_01.jpg" width="80%">
+<img src="../img/buildguide/mounting-az1uball-01.jpg" width="80%">
 
 Attach the cover plate for AZ1UBALL with screws.
-<img src="../img/buildguide/mounting-az1uball_02.jpg" width="80%">
+<img src="../img/buildguide/mounting-az1uball-02.jpg" width="80%">
 
 ### StickPointV
 [Please solder the 4P pinsocket to the PCB in advance.](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/soldering-4p-pinsocket.md)
 
 Replace the spacer supplied with the StickPointV with a 6mm Knurled spacer and the 7mm Knurled spacer on the keyboard case with a 10mm Knurled spacer.  
 Then mount the StickPointV in the 4P pinsocket.  
-<img src="../img/buildguide/mounting-stickpointv_01.jpg" width="80%">
+<img src="../img/buildguide/mounting-stickpointv-01.jpg" width="80%">
 
 Attach the cover plate for StickPointV with screws.
-<img src="../img/buildguide/mounting-stickpointv_02.jpg" width="80%">
+<img src="../img/buildguide/mounting-stickpointv-02.jpg" width="80%">
