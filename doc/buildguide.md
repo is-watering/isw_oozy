@@ -77,7 +77,7 @@ Attach a key switch and key cap of your choice to complete the process!
 
 Congratulations on the completion!  
 Please be proud of it on social networking sites!  
-`#isw_oozy`
+`#isw_kbd`
 
 
 ## Build Optionally
