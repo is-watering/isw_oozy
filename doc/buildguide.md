@@ -34,11 +34,11 @@ M2x10mm Knurled spacers    |4        |Used when StickPointV is installed.<br>[Al
 
 ## Build PCB
 
-### [Leds](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/soldering-sk6812mini-e.md)
+### [Leds](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/en/soldering-sk6812mini-e.md)
 
-### [Diodes](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/soldering-1n4148w.md)
+### [Diodes](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/en/soldering-1n4148w.md)
 
-### [Hotswap sockets](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/soldering-cpg151101s11.md)
+### [Hotswap sockets](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/en/soldering-cpg151101s11.md)
 
 ### ProMicro RP2040
 It is recommended to check whether the firmware can be written to the microcontroller in advance.
@@ -47,7 +47,7 @@ It is recommended to check whether the firmware can be written to the microcontr
 
 
 When using a low profile pinsocket, cut the pinsocket to match the shape of the through-hole and solder it at the point marked in red.  
-[Learn more about microcontroller socketing using low profile pinsocket](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/microcontroller-socketing_low-profile-pinsocket.md)
+[Learn more about microcontroller socketing using low profile pinsocket](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/en/microcontroller-socketing_low-profile-pinsocket.md)
 
 When directly soldering a pin header, cut the pin header to match the shape of the through-hole and solder it to the ProMicro RP2040 at the point marked in red.  
 <img src="../img/buildguide/soldering-promicro-01.jpg" width="80%">
@@ -81,10 +81,10 @@ Please be proud of it on social networking sites!
 
 
 ## Build Optionally
-### [EVQWGD001 rotary encoder](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/soldering-evqwgd001.md)
+### [EVQWGD001 rotary encoder](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/en/soldering-evqwgd001.md)
 
 ### AZ1UBALL
-[Please solder the 4P pinsocket to the PCB in advance.](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/soldering-4p-pinsocket.md)
+[Please solder the 4P pinsocket to the PCB in advance.](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/en/soldering-4p-pinsocket.md)
 
 Mount AZ1UBALL in 4P pinsocket.  
 <img src="../img/buildguide/mounting-az1uball-01.jpg" width="80%">
@@ -93,7 +93,7 @@ Attach the cover plate for AZ1UBALL with screws.
 <img src="../img/buildguide/mounting-az1uball-02.jpg" width="80%">
 
 ### StickPointV
-[Please solder the 4P pinsocket to the PCB in advance.](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/soldering-4p-pinsocket.md)
+[Please solder the 4P pinsocket to the PCB in advance.](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/en/soldering-4p-pinsocket.md)
 
 Replace the spacer supplied with the StickPointV with a 6mm Knurled spacer and the 7mm Knurled spacer on the keyboard case with a 10mm Knurled spacer.  
 Then mount the StickPointV in the 4P pinsocket.  
